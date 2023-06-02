@@ -1,0 +1,11 @@
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\bin\Debug\CalcIMC.exe.config
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\bin\Debug\CalcIMC.exe
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\bin\Debug\CalcIMC.pdb
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.csproj.AssemblyReference.cache
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.Form1.resources
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.Properties.Resources.resources
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.csproj.GenerateResource.cache
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.csproj.CoreCompileInputs.cache
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.exe
+C:\Users\2022102020032\source\repos\CalcIMC\CalcIMC\obj\Debug\CalcIMC.pdb
